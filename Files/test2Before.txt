@@ -13,3 +13,11 @@ Column_1	Column_2	Column_3	Column_4	Column_5
 02-11-99	AD	02	001	3
 02-11-99	BC	01	001	4
 02-11-99	BC	01	002	5
+
+*** Table_3 ***
+Column_1	Column_2	Column_3	Column_4	Column_5
+02-11-99	AD	01	001	1
+02-11-99	AD	01	002	2
+02-11-99	AD	02	001	3
+02-11-99	BC	01	001	4
+02-11-99	JF	01	004	5
