@@ -1,4 +1,4 @@
-*** Table_1 ***
+*** Table&1 ***
 Column_1	Column_2	Column_3	Column_4
 02-11-99	AD	01	1
 02-11-99	AD	02	20
@@ -6,7 +6,7 @@ Column_1	Column_2	Column_3	Column_4
 02-11-99	BC	01	4
 02-11-99	BC	02	5
 
-*** Table_2 ***
+*** Table-2 ***
 Column_1	Column_2	Column_3	Column_4	Column_5
 02-11-99	AD	01	001	1
 02-11-99	AD	01	002	2
