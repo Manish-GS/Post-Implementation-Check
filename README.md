@@ -1,0 +1,2 @@
+# Post Implementation Check
+Jupyter notebook script on comparing tables of interest before and after an implementation. The input files are of a certain format and the comparison will be exported to excel with color formatting to highlight differences.
